@@ -1,0 +1,50 @@
+{
+    "@context":  "#",
+    "value":  [
+                  {
+                      "serialNumber":  "600000000416",
+                      "manufacturer":  "Feitian",
+                      "@contentId":  "1",
+                      "timeIntervalInSeconds":  30,
+                      "secretKey":  "32546h2lkh8gh549iu0f",
+                      "model":  "HardwareToken",
+                      "hashFunction":  "hmacsha1"
+                  },
+                  {
+                      "serialNumber":  "600000000417",
+                      "manufacturer":  "Feitian",
+                      "@contentId":  "2",
+                      "timeIntervalInSeconds":  30,
+                      "secretKey":  "32546h2lkh8gh549iu0f",
+                      "model":  "HardwareToken",
+                      "hashFunction":  "hmacsha1"
+                  },
+                  {
+                      "serialNumber":  "600000000418",
+                      "manufacturer":  "Feitian",
+                      "@contentId":  "3",
+                      "timeIntervalInSeconds":  30,
+                      "secretKey":  "32546h2lkh8gh549iu0f",
+                      "model":  "HardwareToken",
+                      "hashFunction":  "hmacsha1"
+                  },
+                  {
+                      "serialNumber":  "600000000416",
+                      "manufacturer":  "Feitian",
+                      "@contentId":  "4",
+                      "timeIntervalInSeconds":  30,
+                      "secretKey":  "32546h2lkh8gh549iu0f",
+                      "model":  "HardwareToken",
+                      "hashFunction":  "hmacsha1"
+                  },
+                  {
+                      "serialNumber":  "600000000416",
+                      "manufacturer":  "Feitian",
+                      "@contentId":  "5",
+                      "timeIntervalInSeconds":  30,
+                      "secretKey":  "32546h2lkh8gh549iu0f",
+                      "model":  "HardwareToken",
+                      "hashFunction":  "hmacsha1"
+                  }
+              ]
+}
